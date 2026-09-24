@@ -10,31 +10,31 @@ The application allows authenticated users to view, search, filter, sort, add, e
 
 ### Login
 
-![Login Page](./screenshots/LoginView.png)
+![Login Page](./Screenshots/LoginView.png)
 
 ### Product Dashboard
 
-![Product Dashboard](./screenshots/Products.png)
+![Product Dashboard](./Screenshots/Products.png)
 
 ### Desktop Product Table
 
-![Desktop Product Table](./screenshots/DesktopView.png)
+![Desktop Product Table](./Screenshots/DesktopView.png)
 
 ### Mobile Product Cards
 
-![Mobile Product Cards](./screenshots/PhoneView.png)
+![Mobile Product Cards](./Screenshots/PhoneView.png)
 
 ### Product Details
 
-![Product Details](./screenshots/Products.png)
+![Product Details](./Screenshots/Products.png)
 
 ### Edit Product
 
-![Edit Product](./screenshots/EditProduct.png)
+![Edit Product](./Screenshots/EditProduct.png)
 
 ### Search, Filter and Sorting
 
-![Search Filter Sort](./screenshots/DesktopView.png)
+![Search Filter Sort](./Screenshots/DesktopView.png)
 
 # 🚀 Features
 
