@@ -276,5 +276,5 @@ Authorization: Bearer <token>
 ```
 ## 🚀 Live Demo
 
-[View Live Demo](https://product-admin-dashboard.vercel.app)
+[View Live Demo](https://product-admin-dashboard-op22w3iiq-dkver-6568s-projects.vercel.app/products)
 
