@@ -8,8 +8,6 @@ The application allows authenticated users to view, search, filter, sort, add, e
 
 ## 📸 Screenshots
 
-> Add your actual screenshots inside the `screenshots` folder and keep the filenames shown below.
-
 ### Login
 
 ![Login Page](./Screenshots/LoginView.png)
@@ -20,7 +18,7 @@ The application allows authenticated users to view, search, filter, sort, add, e
 
 ### Desktop Product Table
 
-![Desktop Product Table](./Screenshots/Products.png)
+![Desktop Product Table](./Screenshots/DesktopView.png)
 
 ### Mobile Product Cards
 
@@ -30,7 +28,6 @@ The application allows authenticated users to view, search, filter, sort, add, e
 
 ![Product Details](./Screenshots/Products.png)
 
-
 ### Edit Product
 
 ![Edit Product](./Screenshots/EditProduct.png)
@@ -38,8 +35,6 @@ The application allows authenticated users to view, search, filter, sort, add, e
 ### Search, Filter and Sorting
 
 ![Search Filter Sort](./Screenshots/DesktopView.png)
-
----
 
 # 🚀 Features
 
