@@ -274,4 +274,7 @@ The authentication token is automatically added to requests:
 ```text
 Authorization: Bearer <token>
 ```
+## 🚀 Live Demo
+
+[View Live Demo](https://product-admin-dashboard.vercel.app)
 
